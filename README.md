@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,19 +14,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-### Screenshot
+### Screenshots
 
-> Desktop view:
+Desktop view:
 >
->![](./screenshots/Screenshot_desktop_view.png)
+![](./screenshots/Screenshot_desktop_view.png)
 
->Mobile view:
+Mobile view:
 >
->![](./screenshots/Screenshot_mobile_view.png)
+![](./screenshots/Screenshot_mobile_view.png)
 
 ### Links
 
@@ -59,4 +57,4 @@ It's always good to go back to the fundamentals and practice positioning element
 
 ## Acknowledgments
 
-I want to thank my code editor, VS Code, without which I would probably not be here today, as well as GitHub Copilot for helping me out with this challenge as it has with so many other projects. You guys are awesome! I also want to thank the Frontend Mentor community for providing me with the opportunity to practice my skills and learn new things.
+Thanks to [@hitmorecode](https://www.frontendmentor.io/profile/hitmorecode) for pointing out a much simpler solution to the footer positioning. I also want to thank my code editor, VS Code, without which I would probably not be here today, as well as GitHub Copilot for helping me out with this challenge as it has with so many other projects. You guys are awesome! I also want to thank the Frontend Mentor community for providing me with the opportunity to practice my skills and learn new things.
