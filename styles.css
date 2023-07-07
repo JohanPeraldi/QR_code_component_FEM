@@ -58,9 +58,14 @@ footer {
   position: absolute;
   bottom: 24px;
   font-size: 11px;
-  z-index: -1; /* Prevents footer from overlapping content */
 }
 
 footer a {
   color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-height: 639px) {  
+  footer {
+    display: none;
+  }
 }

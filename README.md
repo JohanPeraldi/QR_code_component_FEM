@@ -44,7 +44,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Not much to be honest. It's always good to go back to the fundamentals though and practice positioning elements with CSS. Also, making sure that there are no unnecessary scrollbars and that elements do not overlap when playing around with the viewport size can be a bit tricky.
+Even on a very simple project such as this one, there is always something to learn. I initally put a `z-index: -1;` on the footer to avoid it overlapping with the card when the viewport is reduced under a certain height, without realising that this solution would prevent the links from being clicked. Not very smart! So I decided to go with a media query targetting viewports under 640px in height and replace the `z-index` rule with `display: none;`. Now the footer disappears completely before it reaches the bottom of the card and doesn't risk overlapping it.
+>
+It's always good to go back to the fundamentals and practice positioning elements with CSS, among other things. Also, making sure that there are no unnecessary scrollbars when playing around with the viewport size can be a bit tricky.
 
 ### Useful resources
 
